@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "CLOSET",
+  "base_artist": "神山羊",
+  "createdAt": "2026-02-24T10:07:13.028958Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Cleanin' Out My Closet",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/01_Cleanin'_Out_My_Closet_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Cleanin' Out My Closet",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/02_Cleanin'_Out_My_Closet_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Live Off My Closet (feat. Future)",
+      "artist": "Lil Baby",
+      "has_synced": true,
+      "path": "select/03_Live_Off_My_Closet_(feat._Future)_Lil_Baby.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "CLOSET",
+      "artist": "YOH KAMIYAMA",
+      "has_synced": true,
+      "path": "select/04_CLOSET_YOH_KAMIYAMA.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "In the Closet",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/05_In_the_Closet_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "A Skeleton In the Closet",
+      "artist": "Anthrax",
+      "has_synced": true,
+      "path": "select/06_A_Skeleton_In_the_Closet_Anthrax.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Closet Chronicles",
+      "artist": "Kansas",
+      "has_synced": true,
+      "path": "select/07_Closet_Chronicles_Kansas.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "In the Closet (Single Version)",
+      "artist": "Michael Jackson",
+      "has_synced": false,
+      "path": "select/08_In_the_Closet_(Single_Version)_Michael_Jackson.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Stuck In a Closet With Vanna White",
+      "artist": "\"Weird Al\" Yankovic",
+      "has_synced": false,
+      "path": "select/09_Stuck_In_a_Closet_With_Vanna_White_Weird_Al__Yankovic.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "That Was Close; Diversion Eight, Diversion Two, Closet, Close-Up, Close (to the Edit), Closed",
+      "artist": "Art of Noise",
+      "has_synced": false,
+      "path": "select/10_That_Was_Close;_Diversion_Eight,_Diversion_Two,_Closet,_Close-Up,_Close_(to_the__Art_of_Noise.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Stuck in a Closet With Vanna White",
+      "artist": "“Weird Al” Yankovic",
+      "has_synced": false,
+      "path": "select/11_Stuck_in_a_Closet_With_Vanna_White_“Weird_Al”_Yankovic.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Invitation to a Closet",
+      "artist": "Park Ave.",
+      "has_synced": true,
+      "path": "select/12_Invitation_to_a_Closet_Park_Ave..lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "A Skeleton In The Closet",
+      "artist": "Anthrax",
+      "has_synced": false,
+      "path": "select/13_A_Skeleton_In_The_Closet_Anthrax.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Return to the Closet",
+      "artist": "Refused",
+      "has_synced": true,
+      "path": "select/14_Return_to_the_Closet_Refused.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Closet Astrologer",
+      "artist": "The Ruby Suns",
+      "has_synced": true,
+      "path": "select/15_Closet_Astrologer_The_Ruby_Suns.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Closet",
+      "artist": "Juliana Hatfield",
+      "has_synced": false,
+      "path": "select/16_Closet_Juliana_Hatfield.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "After Hours - Closet Mix",
+      "artist": "The Velvet Underground",
+      "has_synced": true,
+      "path": "select/17_After_Hours_-_Closet_Mix_The_Velvet_Underground.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "After Hours (Closet Mix)",
+      "artist": "The Velvet Underground",
+      "has_synced": true,
+      "path": "select/18_After_Hours_(Closet_Mix)_The_Velvet_Underground.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Beginning To See The Light - Alternate Closet Mix",
+      "artist": "The Velvet Underground",
+      "has_synced": false,
+      "path": "select/19_Beginning_To_See_The_Light_-_Alternate_Closet_Mix_The_Velvet_Underground.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "CLOSET",
+      "artist": "神山 羊",
+      "has_synced": false,
+      "path": "select/pl_01_CLOSET_神山_羊.txt"
+    }
+  ]
+}
